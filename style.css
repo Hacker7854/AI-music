@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+ 
+}
+
+#heading{
+    color: white;
+    font-size: 17px;
+}
+
+span{
+    color: beige;
+}
+
+#play{
+    font-size: 18px;
+}
